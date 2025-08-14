@@ -60,17 +60,18 @@ ezra({
 
             const releaseDate = new Date(repoData.created_at).toLocaleDateString('en-GB');
             const message = `
-            *Hello 👋 ${nomAuteurMessage}*
 
-            *This is ${conf.BOT}*
-            the best bot in the universe developed by ${conf.OWNER_NAME}. Fork and give a star 🌟 to my repo!
+*Hello 👋 ${nomAuteurMessage}*
+
+ *This is ${conf.BOT}*
+ the best bot in the universe developed by ${conf.OWNER_NAME}. Fork and give a star 🌟 to my repo!
      
-     🌟  *Stars:* - ${repoInfo.stars}
-     🍴  *Forks:* - ${repoInfo.forks}
-     📆  *Release date:* - ${releaseDate}
-     🖇️  *Repo:* - ${repoData.html_url}
-     👤  *Owner:*   *${conf.OWNER_NAME}*`;
-
+🌟  *Stars:* - ${repoInfo.stars}
+🍴  *Forks:* - ${repoInfo.forks}
+📆  *Release date:* - ${releaseDate}
+🖇️  *Repo:* - ${repoData.html_url}
+👤  *Owner:*   *${conf.OWNER_NAME}*`;
+<<━━━━━━━━━━━━━━━━━━━>>  
 await reply.sendMessage(command, {
                 text: message,
                 contextInfo: {
