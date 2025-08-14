@@ -25,7 +25,7 @@ ezra({
   try {
     await _0x2d8d4e.sendMessage(_0x12a838, {
       'audio': {
-        'url': "https://files.catbox.moe/se9mii.mp3"
+        'url': "https://files.catbox.moe/ug611a.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
