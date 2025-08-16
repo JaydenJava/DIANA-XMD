@@ -45,7 +45,7 @@
 
 
 
-<a><img src='https://files.catbox.moe/2rps71.jpg'/></a>
+<a><img src='https://files.catbox.moe/0alx3t.jpg'/></a>
 
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
